@@ -8,3 +8,5 @@ Orange : +25 players on zone
 Red : +31 players on zone
 
 (u can edit this)
+
+-- Create by Emolitt for noloshaRP
