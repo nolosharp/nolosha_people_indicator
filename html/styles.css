@@ -1,0 +1,24 @@
+#crowd-indicator {
+    position: absolute;
+    z-index: -1000;
+    left: 1.2vw;
+    bottom: 16.4vh;
+
+    width: 33px;
+    height: 33px;
+    border-radius: 25px;
+    border: 3px solid rgba(68, 68, 68, 0.877);
+    background-color: rgba(2, 0, 0, 0.541);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#crowd-logo {
+    filter: invert(56%) sepia(11%) saturate(2366%) hue-rotate(79deg) brightness(104%) contrast(89%);
+    width: 90%;
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
