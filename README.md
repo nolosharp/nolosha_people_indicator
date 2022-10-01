@@ -10,3 +10,4 @@ Red : +31 players on zone
 (u can edit this)
 
 -- Create by Emolitt for noloshaRP
+If u use this script, dont edit the name resource, thanks.
